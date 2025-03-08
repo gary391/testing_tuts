@@ -3,6 +3,7 @@
 | Module  | A single Python file (.py) containing code (functions, classes, variables)          | math.py, random.py, or your custom utils.py | 
 | Package | A directory (folder) containing multiple modules, identified by an __init__.py file | numpy, requests, or your own mypackage/     | 
 | Library | A collection of modules and packages bundled together to provide functionality      | requests, pandas, scikit-learn              |
+
 Module → A single Python file containing code.
 
 # file: mymodule.py
